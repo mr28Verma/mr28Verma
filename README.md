@@ -6,9 +6,17 @@
 
 Building modern, scalable and user-friendly web applications.
 
-[Portfolio](https://myportfolio-psi-one-32.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/) •
-[Email](mailto:2006sakshamchd@gmail.com)
+<a href="https://www.linkedin.com/in/saksham-verma-9275b631b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://myportfolio-psi-one-32.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:2006sakshamchd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -16,29 +24,33 @@ Building modern, scalable and user-friendly web applications.
 
 ## About Me
 
-Full-Stack Developer focused on building practical web applications,
+I'm a Full-Stack Developer focused on building practical web applications,
 REST APIs and reliable backend systems.
 
-Currently working with the MERN stack and expanding my knowledge
-of backend development and system design.
+I enjoy working across the frontend and backend and turning ideas into
+clean, functional and user-friendly products.
 
 ## Tech Stack
 
-**Frontend**  
+**Frontend**
+
 React.js · TypeScript · HTML5 · CSS3
 
-**Backend**  
+**Backend**
+
 Node.js · Express.js · REST APIs
 
-**Database**  
+**Database**
+
 MongoDB · PostgreSQL
 
-**Tools**  
+**Tools**
+
 Git · GitHub · Vercel
 
 ## Currently Building
 
-**University Assignment Approval System**
+### University Assignment Approval System
 
 A full-stack platform for managing assignment submissions,
 approval workflows and departmental tracking.
@@ -47,26 +59,37 @@ approval workflows and departmental tracking.
 
 ## Featured Projects
 
-| Project | Technologies |
+| Project | Tech Stack |
 | --- | --- |
 | University Assignment Approval System | React · Node.js · Express · MongoDB |
 | myCinema | React · Node.js · Express · MongoDB |
 | Plant Disease Detection | Python · Machine Learning |
 | Todo List | HTML · CSS · JavaScript |
 
-## Activity
-
-Focused on consistent development, learning backend technologies,
-and building practical projects.
-
 ## Portfolio
 
-[View My Portfolio](https://myportfolio-psi-one-32.vercel.app/)
+<a href="https://myportfolio-psi-one-32.vercel.app/">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/saksham-verma-9275b631b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:2006sakshamchd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mr28Verma">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## Connect
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/)  
-[GitHub](https://github.com/mr28Verma)  
-[Email](mailto:2006sakshamchd@gmail.com)
+### Thanks for visiting my profile.
+
+</div>
