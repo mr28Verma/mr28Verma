@@ -1,53 +1,77 @@
+<div align="center">
+
 # Saksham Verma
 
 ### Full-Stack Developer | MERN Stack
 
-I build modern, scalable, and user-friendly web applications with a focus on clean code and practical solutions.
+Building modern, scalable and user-friendly web applications.
 
-## Technical Skills
+[Portfolio](https://myportfolio-psi-one-32.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/) •
+[Email](mailto:2006sakshamchd@gmail.com)
 
-**Frontend:** React.js, TypeScript, HTML5, CSS3
+</div>
 
-**Backend:** Node.js, Express.js, REST APIs
+---
 
-**Database:** MongoDB, PostgreSQL
+## About Me
 
-**Tools:** Git, GitHub, Vercel
+I'm a Full-Stack Developer focused on building practical web applications and solving real-world problems.
+
+I enjoy working across the frontend and backend, designing REST APIs, working with databases, and creating clean user experiences.
+
+## Tech Stack
+
+| Frontend | Backend | Database | Tools |
+| --- | --- | --- | --- |
+| React.js | Node.js | MongoDB | Git |
+| TypeScript | Express.js | PostgreSQL | GitHub |
+| HTML5 | REST APIs | | Vercel |
+| CSS3 | | | |
 
 ## Featured Projects
 
 ### University Assignment Approval System
 
-Full-stack academic workflow platform for managing assignment submissions and approval processes.
+Full-stack academic workflow platform for assignment submission and approval.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
 ### myCinema
 
-A movie-focused web application with a modern and responsive user interface.
+Modern movie-focused web application with a responsive user interface.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
 ### Plant Disease Detection
 
-A machine-learning project for detecting plant diseases from images.
+Machine-learning application for detecting plant diseases from images.
 
-**Tech Stack:** Python, Machine Learning
+`Python` `Machine Learning`
 
 ### Todo List
 
-A task-management application for creating, managing, and tracking daily tasks.
+Simple task-management application for creating and managing daily tasks.
 
-**Tech Stack:** HTML, CSS, JavaScript
+`HTML` `CSS` `JavaScript`
+
+---
 
 ## Portfolio
 
-[View My Portfolio](https://myportfolio-psi-one-32.vercel.app/)
+Visit my portfolio to explore my projects, skills and development journey.
+
+**[View Portfolio](https://myportfolio-psi-one-32.vercel.app/)**
+
+---
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/)
+**LinkedIn:**  
+https://www.linkedin.com/in/saksham-verma-9275b631b/
 
-[GitHub](https://github.com/mr28Verma)
+**GitHub:**  
+https://github.com/mr28Verma
 
-Email: 2006sakshamchd@gmail.com
+**Email:**  
+2006sakshamchd@gmail.com
