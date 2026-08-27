@@ -2,45 +2,52 @@
 
 ### Full-Stack Developer | MERN Stack
 
-I build modern, scalable and user-friendly web applications.
+I build modern, scalable, and user-friendly web applications with a focus on clean code and practical solutions.
 
-Currently focused on:
-- React.js
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- REST APIs
+## Technical Skills
+
+**Frontend:** React.js, TypeScript, HTML5, CSS3
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB, PostgreSQL
+
+**Tools:** Git, GitHub, Vercel
 
 ## Featured Projects
 
 ### University Assignment Approval System
-Full-stack academic workflow platform for assignment submission and approval.
 
-**React | Node.js | Express | MongoDB**
+Full-stack academic workflow platform for managing assignment submissions and approval processes.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
 ### myCinema
-Movie-focused web application with a modern and responsive interface.
 
-**React | Node.js | Express | MongoDB**
+A movie-focused web application with a modern and responsive user interface.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
 ### Plant Disease Detection
-Machine-learning project for detecting plant diseases from images.
 
-**Python | Machine Learning**
+A machine-learning project for detecting plant diseases from images.
+
+**Tech Stack:** Python, Machine Learning
 
 ### Todo List
-Task management application for creating and managing daily tasks.
 
-**HTML | CSS | JavaScript**
+A task-management application for creating, managing, and tracking daily tasks.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ## Portfolio
 
-[View my portfolio](https://myportfolio-psi-one-32.vercel.app/)
+[View My Portfolio](https://myportfolio-psi-one-32.vercel.app/)
 
-## Connect
+## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/)  
-[GitHub](https://github.com/mr28Verma)  
+[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/)
+
+[GitHub](https://github.com/mr28Verma)
+
 Email: 2006sakshamchd@gmail.com
