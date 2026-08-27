@@ -1,16 +1,46 @@
-## Hi there 👋
+# Saksham Verma
 
-<!--
-**mr28Verma/mr28Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+I build modern, scalable and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- REST APIs
+
+## Featured Projects
+
+### University Assignment Approval System
+Full-stack academic workflow platform for assignment submission and approval.
+
+**React | Node.js | Express | MongoDB**
+
+### myCinema
+Movie-focused web application with a modern and responsive interface.
+
+**React | Node.js | Express | MongoDB**
+
+### Plant Disease Detection
+Machine-learning project for detecting plant diseases from images.
+
+**Python | Machine Learning**
+
+### Todo List
+Task management application for creating and managing daily tasks.
+
+**HTML | CSS | JavaScript**
+
+## Portfolio
+
+[View my portfolio](https://myportfolio-psi-one-32.vercel.app/)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/saksham-verma-9275b631b/)  
+[GitHub](https://github.com/mr28Verma)  
+Email: 2006sakshamchd@gmail.com
